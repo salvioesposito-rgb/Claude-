@@ -1,0 +1,12 @@
+{
+  "name": "salvio-mods",
+  "owner": { "name": "salvioesposito-rgb" },
+  "description": "Claude Code mods by salvioesposito-rgb.",
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./prompt-master",
+      "description": "One click rewrites your rough draft into a clear, well-structured prompt before you send it."
+    }
+  ]
+}
