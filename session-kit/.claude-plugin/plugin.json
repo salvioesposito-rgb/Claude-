@@ -1,0 +1,1 @@
+{ "name": "session-kit", "version": "0.1.0", "description": "Prompt Master (one-click prompt rewrite) and a token counter, together in the band above the prompt box.", "author": { "name": "salvioesposito-rgb" }, "license": "MIT", "types": "./types/index.d.ts" }
