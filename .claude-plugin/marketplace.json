@@ -1,8 +1,15 @@
 {
   "name": "salvio-mods",
-  "owner": { "name": "salvioesposito-rgb" },
+  "owner": {
+    "name": "salvioesposito-rgb"
+  },
   "description": "Claude Code mods by salvioesposito-rgb.",
   "plugins": [
+    {
+      "name": "session-kit",
+      "source": "./session-kit",
+      "description": "Prompt Master and a token counter together, in the band above the prompt box."
+    },
     {
       "name": "prompt-master",
       "source": "./prompt-master",
